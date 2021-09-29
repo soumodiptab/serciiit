@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit,Input } from '@angular/core';
+import { faculty } from 'src/app/classes/faculty';
 
 @Component({
   selector: 'app-people-card',
@@ -6,9 +7,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./people-card.component.css']
 })
 export class PeopleCardComponent implements OnInit {
-
+  imgsrc:string ="https://serc.iiit.ac.in/static/images/people/6.jpg";
+  @Input() f : faculty;
   constructor() { }
-
   ngOnInit(): void {
   }
 

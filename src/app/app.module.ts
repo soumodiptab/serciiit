@@ -15,6 +15,8 @@ import { PhdComponent } from './components/people/phd/phd.component';
 import { MsComponent } from './components/people/ms/ms.component';
 import { BtechComponent } from './components/people/btech/btech.component';
 import { InternComponent } from './components/people/intern/intern.component';
+import { PeopleInputComponent } from './components/util/people-input/people-input.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -30,10 +32,12 @@ import { InternComponent } from './components/people/intern/intern.component';
     PhdComponent,
     MsComponent,
     BtechComponent,
-    InternComponent
+    InternComponent,
+    PeopleInputComponent
   ],
   imports: [
     BrowserModule,
+    FormsModule,
     AppRoutingModule
   ],
   providers: [],
