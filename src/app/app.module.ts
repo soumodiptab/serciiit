@@ -10,6 +10,11 @@ import { FocusareaComponent } from './components/focusarea/focusarea.component';
 import { PublicationsComponent } from './components/publications/publications.component';
 import { AdminComponent } from './components/admin/admin.component';
 import { PeopleCardComponent } from './components/util/people-card/people-card.component';
+import { FacultyComponent } from './components/people/faculty/faculty.component';
+import { PhdComponent } from './components/people/phd/phd.component';
+import { MsComponent } from './components/people/ms/ms.component';
+import { BtechComponent } from './components/people/btech/btech.component';
+import { InternComponent } from './components/people/intern/intern.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +25,12 @@ import { PeopleCardComponent } from './components/util/people-card/people-card.c
     FocusareaComponent,
     PublicationsComponent,
     AdminComponent,
-    PeopleCardComponent
+    PeopleCardComponent,
+    FacultyComponent,
+    PhdComponent,
+    MsComponent,
+    BtechComponent,
+    InternComponent
   ],
   imports: [
     BrowserModule,
