@@ -17,6 +17,13 @@ import { BtechComponent } from './components/people/btech/btech.component';
 import { InternComponent } from './components/people/intern/intern.component';
 import { PeopleInputComponent } from './components/util/people-input/people-input.component';
 import { FormsModule } from '@angular/forms';
+import { ProjectsComponent } from './components/resources/projects/projects.component';
+import { TeachingComponent } from './components/resources/teaching/teaching.component';
+import { DownloadsComponent } from './components/resources/downloads/downloads.component';
+import { DemosComponent } from './components/resources/demos/demos.component';
+import { DatasetComponent } from './components/resources/dataset/dataset.component';
+import { PosterComponent } from './components/resources/poster/poster.component';
+import { ContactComponent } from './components/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +40,14 @@ import { FormsModule } from '@angular/forms';
     MsComponent,
     BtechComponent,
     InternComponent,
-    PeopleInputComponent
+    PeopleInputComponent,
+    ProjectsComponent,
+    TeachingComponent,
+    DownloadsComponent,
+    DemosComponent,
+    DatasetComponent,
+    PosterComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

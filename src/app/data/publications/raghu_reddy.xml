@@ -1,0 +1,1159 @@
+<?xml version="1.0"?>
+<dblpperson name="Y. Raghu Reddy" pid="r/RaghuReddy" n="75">
+<person key="homepages/r/RaghuReddy" mdate="2013-06-02">
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+</person>
+<r><inproceedings key="conf/hci/MittalKR21" mdate="2021-07-12">
+<author pid="293/6645">Raghav Mittal</author>
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Designing Limitless Path in Virtual Reality Environment.</title>
+<pages>80-95</pages>
+<year>2021</year>
+<booktitle>HCI (9)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-77599-5_7</ee>
+<crossref>conf/hci/2021-9</crossref>
+<url>db/conf/hci/hci2021-9.html#MittalKR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/KuriKR21" mdate="2021-05-04">
+<author pid="291/3748">Mohit Kuri</author>
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Understanding Software Quality Metrics for Virtual Reality Products - A Mapping Study.</title>
+<pages>8:1-8:11</pages>
+<year>2021</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/3452383.3452391</ee>
+<crossref>conf/indiaSE/2021</crossref>
+<url>db/conf/indiaSE/isec2021.html#KuriKR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/KarreSR21" mdate="2021-05-04">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Using project-based approach to teach design patterns: An Experience Report.</title>
+<pages>16:1-16:5</pages>
+<year>2021</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/3452383.3452399</ee>
+<crossref>conf/indiaSE/2021</crossref>
+<url>db/conf/indiaSE/isec2021.html#KarreSR21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/ParasharSR21" mdate="2021-05-04">
+<author pid="291/4268">Dhruv Parashar</author>
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>SQL Injection Vulnerability Identification from Text.</title>
+<pages>22:1-22:5</pages>
+<year>2021</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/3452383.3452405</ee>
+<crossref>conf/indiaSE/2021</crossref>
+<url>db/conf/indiaSE/isec2021.html#ParasharSR21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-04081" mdate="2021-02-10">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="13/6608">Vivek Iyer</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>OntoEnricher: A Deep Learning Approach for Ontology Enrichment from Unstructured Text.</title>
+<year>2021</year>
+<volume>abs/2102.04081</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.04081</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-04081</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-10720" mdate="2021-05-31">
+<author pid="293/6645">Raghav Mittal</author>
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Designing Limitless Path in Virtual Reality Environment.</title>
+<year>2021</year>
+<volume>abs/2105.10720</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.10720</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-10720</url>
+</article>
+</r>
+<r><article key="journals/jbft/BhatoreSR20" mdate="2021-06-15">
+<author orcid="0000-0002-6046-9332" pid="278/7194">Siddharth Bhatore</author>
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Machine learning techniques for credit risk evaluation: a systematic literature review.</title>
+<pages>111-138</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>J. Bank. Financial Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s42786-020-00020-3</ee>
+<url>db/journals/jbft/jbft4.html#BhatoreSR20</url>
+</article>
+</r>
+<r><inproceedings key="conf/csee/SanagavarapuDPC20" mdate="2020-11-25">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="279/3275">Mrudhivka Damaraju</author>
+<author pid="138/2769">Ravi Shankar Pillutla</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="192/7534">Priya Raman</author>
+<title>An SE approach for CoCo Learning of Virtual Labs.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET49119.2020.9206206</ee>
+<crossref>conf/csee/2020</crossref>
+<url>db/conf/csee/csee2020.html#SanagavarapuDPC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/ShekarPKR20" mdate="2020-07-14">
+<author pid="269/5924">Shivang Shekar</author>
+<author pid="269/6054">Pranav Reddy Pesaladinne</author>
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>VREye: Exploring Human Visual Acuity Test Using Virtual Reality.</title>
+<pages>415-429</pages>
+<year>2020</year>
+<booktitle>HCI (11)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-49698-2_28</ee>
+<crossref>conf/hci/2020-11</crossref>
+<url>db/conf/hci/hci2020-11.html#ShekarPKR20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbft/PrasadCSCR19" mdate="2021-09-16">
+<author orcid="0000-0003-1741-4851" pid="141/8540">Gollapudi V. R. J. Sai Prasad</author>
+<author orcid="0000-0003-1085-3464" pid="44/7025">Venkatesh Choppella</author>
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="76/1783">Sridhar Chimalakonda</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Promoting better financial inclusion through web page transformation - a systematic literature review.</title>
+<pages>131-147</pages>
+<year>2019</year>
+<volume>3</volume>
+<journal>J. Bank. Financial Technol.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s42786-019-00010-0</ee>
+<url>db/journals/jbft/jbft3.html#PrasadCSCR19</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/KarreSRRNPK19" mdate="2020-09-17">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="255/0434">K. V. Raghavan</author>
+<author pid="175/1052">R. D. Naik</author>
+<author pid="65/5006">Rahul Purandare</author>
+<author pid="93/511">Amey Karkare</author>
+<title>A report on 1st Software Engineering Research in India Update Meeting (SERI 2019).</title>
+<pages>41-42</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3356773.3356805</ee>
+<url>db/journals/sigsoft/sigsoft44.html#KarreSRRNPK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/indiaSE/KarreMR19" mdate="2019-03-05">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Is Virtual Reality Product Development different?: An Empirical Study on VR Product Development Practices.</title>
+<pages>3:1-3:11</pages>
+<year>2019</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/3299771.3299772</ee>
+<crossref>conf/indiaSE/2019</crossref>
+<url>db/conf/indiaSE/isec2019.html#KarreMR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispw/NistalaNR19" mdate="2019-08-29">
+<author pid="175/1062">Padmalata Nistala</author>
+<author pid="08/11295">Kesav Vithal Nori</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<title>Software quality models: a systematic mapping study.</title>
+<pages>125-134</pages>
+<year>2019</year>
+<booktitle>ICSSP</booktitle>
+<ee>https://doi.org/10.1109/ICSSP.2019.00025</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3340011</ee>
+<crossref>conf/ispw/2019</crossref>
+<url>db/conf/ispw/icssp2019.html#NistalaNR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mike/SanagavarapuPRR19" mdate="2020-12-21">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="281/2471">Jahfar Ali Pichen</author>
+<author pid="281/2532">Syed Mohd Ali Rizwi</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="245/9432">Dipti Sharma</author>
+<title>Text Cohesion in CQA - Does It Impact Rating?</title>
+<pages>21-31</pages>
+<year>2019</year>
+<booktitle>MIKE</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66187-8_3</ee>
+<crossref>conf/mike/2019</crossref>
+<url>db/conf/mike/mike2019.html#SanagavarapuPRR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/KarreMR19" mdate="2019-05-02">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Usability evaluation of VR products in industry: a systematic literature review.</title>
+<pages>1845-1851</pages>
+<year>2019</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3297280.3297462</ee>
+<crossref>conf/sac/2019</crossref>
+<url>db/conf/sac/sac2019.html#KarreMR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/MathurKR19" mdate="2021-02-03">
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Grouping Semantically Related Change-Sets to Enhance Identification of Logical Coupling.</title>
+<pages>618-777</pages>
+<year>2019</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2019-166</ee>
+<crossref>conf/seke/2019</crossref>
+<url>db/conf/seke/seke2019.html#MathurKR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/t4e/PillutlaSCJRR19" mdate="2020-02-11">
+<author pid="138/2769">Ravi Shankar Pillutla</author>
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="258/2268">Avni Jesrani</author>
+<author pid="192/7534">Priya Raman</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Towards Massively Open Online Virtual Internships in Computing Education.</title>
+<pages>90-93</pages>
+<year>2019</year>
+<booktitle>T4E</booktitle>
+<ee>https://doi.org/10.1109/T4E.2019.00-44</ee>
+<crossref>conf/t4e/2019</crossref>
+<url>db/conf/t4e/t4e2019.html#PillutlaSCJRR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tencon/AgrawalSR19" mdate="2019-12-18">
+<author pid="216/7229">Shriyansh Agrawal</author>
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>FACT - Fine grained Assessment of web page CredibiliTy.</title>
+<pages>1088-1097</pages>
+<year>2019</year>
+<booktitle>TENCON</booktitle>
+<ee>https://doi.org/10.1109/TENCON.2019.8929515</ee>
+<crossref>conf/tencon/2019</crossref>
+<url>db/conf/tencon/tencon2019.html#AgrawalSR19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcac/SanagavarapuGR18" mdate="2020-03-31">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="10/3459">G. R. Gangadharan</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>KIET Framework for Cloud Adoption: Indian Banking Case Study.</title>
+<pages>72-87</pages>
+<year>2018</year>
+<volume>8</volume>
+<journal>Int. J. Cloud Appl. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/IJCAC.2018100105</ee>
+<url>db/journals/ijcac/ijcac8.html#SanagavarapuGR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigda/AgrawalSR18" mdate="2018-12-11">
+<author pid="216/7229">Shriyansh Agrawal</author>
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Automated Credibility Assessment of Web Page Based on Genre.</title>
+<pages>155-169</pages>
+<year>2018</year>
+<booktitle>BDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-04780-1_11</ee>
+<crossref>conf/bigda/2018</crossref>
+<url>db/conf/bigda/bigda2018.html#AgrawalSR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ease/MathurKR18" mdate="2018-11-21">
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Usability Evaluation Framework for Mobile Apps using Code Analysis.</title>
+<pages>187-192</pages>
+<year>2018</year>
+<booktitle>EASE</booktitle>
+<ee>https://doi.org/10.1145/3210459.3210480</ee>
+<crossref>conf/ease/2018</crossref>
+<url>db/conf/ease/ease2018.html#MathurKR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/SanagavarapuMAR18" mdate="2018-04-06">
+<author orcid="0000-0003-0745-1042" pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="216/7229">Shriyansh Agrawal</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>SIREN - Security Information Retrieval and Extraction eNgine.</title>
+<pages>811-814</pages>
+<year>2018</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-76941-7_81</ee>
+<crossref>conf/ecir/2018</crossref>
+<url>db/conf/ecir/ecir2018.html#SanagavarapuMAR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/SanagavarapuSRV18" mdate="2019-04-08">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="214/8651">Sourav Sarangi</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="03/4045">Vasudeva Varma</author>
+<title>Fine Grained Approach for Domain Specific Seed URL Extraction.</title>
+<year>2018</year>
+<booktitle>HICSS</booktitle>
+<ee type="oa">http://hdl.handle.net/10125/50111</ee>
+<ee>http://aisel.aisnet.org/hicss-51/dsm/data_mining/6</ee>
+<crossref>conf/hicss/2018</crossref>
+<url>db/conf/hicss/hicss2018.html#SanagavarapuSRV18</url>
+<pages>1-8</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icacci/AhmadSPR18" mdate="2019-01-07">
+<author pid="232/7343">Shadab Ahmad</author>
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="18/2296">Rajarshi Pal</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Rank Aggregation Approach for Identifying Critical Information Infrastructure.</title>
+<pages>1328-1333</pages>
+<year>2018</year>
+<booktitle>ICACCI</booktitle>
+<ee>https://doi.org/10.1109/ICACCI.2018.8554880</ee>
+<crossref>conf/icacci/2018</crossref>
+<url>db/conf/icacci/icacci2018.html#AhmadSPR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/SanagavarapuCR18" mdate="2018-08-23">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Model Driven Approach for Virtual Lab Authoring - Chemical Sciences Labs.</title>
+<pages>241-243</pages>
+<year>2018</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT.2018.00062</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICALT.2018.00062</ee>
+<crossref>conf/icalt/2018</crossref>
+<url>db/conf/icalt/icalt2018.html#SanagavarapuCR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SanagavarapuR18" mdate="2021-08-10">
+<author pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Crowdsourcing security: opportunities and challenges.</title>
+<pages>37-40</pages>
+<year>2018</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3195836.3195862</ee>
+<ee>https://ieeexplore.ieee.org/document/8445533</ee>
+<crossref>conf/icse/2018chase</crossref>
+<url>db/conf/icse/chase2018.html#SanagavarapuR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BudhirajaRS18" mdate="2021-08-10">
+<author pid="172/7740">Amar Budhiraja</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author orcid="0000-0001-8705-6637" pid="65/3881">Manish Shrivastava 0001</author>
+<title>LWE: LDA refined word embeddings for duplicate bug report detection.</title>
+<pages>165-166</pages>
+<year>2018</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3183440.3195078</ee>
+<ee>https://ieeexplore.ieee.org/document/8449482</ee>
+<crossref>conf/icse/2018c</crossref>
+<url>db/conf/icse/icse2018c.html#BudhirajaRS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/BudhirajaDRS18" mdate="2021-08-10">
+<author pid="172/7740">Amar Budhiraja</author>
+<author pid="193/4957">Kartik Dutta</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author orcid="0000-0001-8705-6637" pid="65/3881">Manish Shrivastava 0001</author>
+<title>DWEN: deep word embedding network for duplicate bug report detection in software repositories.</title>
+<pages>193-194</pages>
+<year>2018</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3183440.3195092</ee>
+<ee>https://ieeexplore.ieee.org/document/8449496</ee>
+<crossref>conf/icse/2018c</crossref>
+<url>db/conf/icse/icse2018c.html#BudhirajaDRS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/BudhirajaDSR18" mdate="2021-04-09">
+<author pid="172/7740">Amar Budhiraja</author>
+<author pid="193/4957">Kartik Dutta</author>
+<author orcid="0000-0001-8705-6637" pid="65/3881">Manish Shrivastava 0001</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<title>Towards Word Embeddings for Improved Duplicate Bug Report Retrieval in Software Repositories.</title>
+<pages>167-170</pages>
+<year>2018</year>
+<booktitle>ICTIR</booktitle>
+<ee>https://doi.org/10.1145/3234944.3234949</ee>
+<crossref>conf/ictir/2018</crossref>
+<url>db/conf/ictir/ictir2018.html#BudhirajaDSR18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/indiaSE/2018" mdate="2018-11-06">
+<editor pid="r/RaghuReddy">Y. Raghu Reddy</editor>
+<editor pid="03/4045">Vasudeva Varma</editor>
+<editor pid="c/JaneClelandHuang">Jane Cleland-Huang</editor>
+<editor pid="54/4697">Umesh Bellur</editor>
+<editor pid="214/7087">Shubashsis Sengupta</editor>
+<editor pid="23/1972">Naveen Sharma</editor>
+<editor pid="136/4557">Ramesh Loganathan</editor>
+<editor pid="86/11292">Richa Sharma</editor>
+<editor pid="00/1826">Santonu Sarkar</editor>
+<title>Proceedings of the 11th Innovations in Software Engineering Conference, ISEC 2018, Hyderabad, India, February 09 - 11, 2018</title>
+<booktitle>ISECX</booktitle>
+<publisher>ACM</publisher>
+<year>2018</year>
+<ee>https://doi.org/10.1145/3172871</ee>
+<url>db/conf/indiaSE/isec2018.html</url>
+</proceedings>
+</r>
+<r><article key="journals/spe/KimSRR17" mdate="2020-04-09">
+<author pid="k/DaeKyooKim">Dae-Kyoo Kim</author>
+<author pid="02/3874">Eunjee Song</author>
+<author pid="93/3986">Jungwoo Ryoo</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Special issue on software reuse.</title>
+<pages>941-942</pages>
+<year>2017</year>
+<volume>47</volume>
+<journal>Softw. Pract. Exp.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/spe.2504</ee>
+<url>db/journals/spe/spe47.html#KimSRR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icacci/SRG17" mdate="2019-09-16">
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author orcid="0000-0002-0764-2650" pid="10/3459">G. R. Gangadharan</author>
+<title>Compac - A pricing model for community cloud.</title>
+<pages>2033-2039</pages>
+<year>2017</year>
+<booktitle>ICACCI</booktitle>
+<ee>https://doi.org/10.1109/ICACCI.2017.8126144</ee>
+<ee>https://www.wikidata.org/entity/Q57634943</ee>
+<crossref>conf/icacci/2017</crossref>
+<url>db/conf/icacci/icacci2017.html#SRG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/SanagavarapuSR17" mdate="2018-03-06">
+<author orcid="0000-0003-0745-1042" pid="192/7511">Lalit Mohan Sanagavarapu</author>
+<author pid="214/8651">Sourav Sarangi</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>ABC Algorithm for URL Extraction.</title>
+<pages>143-148</pages>
+<year>2017</year>
+<booktitle>ICWE Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-74433-9_12</ee>
+<crossref>conf/icwe/2017w</crossref>
+<url>db/conf/icwe/icwe2017w.html#SanagavarapuSR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/PrasadCCR17" mdate="2017-01-09">
+<author pid="141/8540">Gollapudi V. R. J. Sai Prasad</author>
+<author pid="76/1783">Sridhar Chimalakonda</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>An Aspect Oriented Approach for Renarrating Web Content.</title>
+<pages>56-65</pages>
+<year>2017</year>
+<booktitle>ISEC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3021466</ee>
+<crossref>conf/indiaSE/2017</crossref>
+<url>db/conf/indiaSE/isec2017.html#PrasadCCR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/MaheshwariR17" mdate="2017-01-09">
+<author pid="175/4082">Yogesh Maheshwari</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>A study on Migrating Flash files to HTML5/JavaScript.</title>
+<pages>112-116</pages>
+<year>2017</year>
+<booktitle>ISEC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3021472</ee>
+<crossref>conf/indiaSE/2017</crossref>
+<url>db/conf/indiaSE/isec2017.html#MaheshwariR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/KhandelwalSR17" mdate="2017-01-09">
+<author pid="175/1082">Shivam Khandelwal</author>
+<author pid="167/1244">Saikrishna Sripada</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Impact of Gamification on Code review process: An Experimental Study.</title>
+<pages>122-126</pages>
+<year>2017</year>
+<booktitle>ISEC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3021474</ee>
+<crossref>conf/indiaSE/2017</crossref>
+<url>db/conf/indiaSE/isec2017.html#KhandelwalSR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/SRCR17" mdate="2017-01-09">
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="192/7534">Priya Raman</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>A Crowdsourcing Approach for Quality Enhancement of eLearning Systems.</title>
+<pages>188-194</pages>
+<year>2017</year>
+<booktitle>ISEC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3021483</ee>
+<crossref>conf/indiaSE/2017</crossref>
+<url>db/conf/indiaSE/isec2017.html#SRCR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/ReddyK17" mdate="2017-01-09">
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="51/3678">Vinay Kulkarni</author>
+<title>Modelling Symposium (ModSym).</title>
+<pages>223-224</pages>
+<year>2017</year>
+<booktitle>ISEC</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=3021496</ee>
+<crossref>conf/indiaSE/2017</crossref>
+<url>db/conf/indiaSE/isec2017.html#ReddyK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/SanagavarapuGCR17" mdate="2021-02-03">
+<author pid="192/7511">Lalit Sanagavarapu</author>
+<author pid="141/8540">Sai Gollapudi</author>
+<author orcid="0000-0003-0818-8178" pid="76/1783">Sridhar Chimalakonda</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<title>A Lightweight Approach for Evaluating Sufficiency of Ontologies.</title>
+<pages>557-561</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2017-185</ee>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#SanagavarapuGCR17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KarreSR17" mdate="2018-08-13">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="202/2542">Anveshi Shukla</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Does your Bug Tracking tool suit your needs? A Study on Open Source Bug Tracking tools.</title>
+<year>2017</year>
+<volume>abs/1706.06799</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.06799</ee>
+<url>db/journals/corr/corr1706.html#KarreSR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/indiaSE/SripadaRK16" mdate="2018-11-06">
+<author pid="167/1244">Saikrishna Sripada</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="175/1082">Shivam Khandelwal</author>
+<title>Architecting an extensible framework for Gamifying Software Engineering concepts.</title>
+<pages>119-130</pages>
+<year>2016</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/2856636.2856649</ee>
+<crossref>conf/indiaSE/2016</crossref>
+<url>db/conf/indiaSE/isec2016.html#SripadaRK16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/indiaSE/2016modsym-saaas" mdate="2020-02-12">
+<editor pid="67/103">Atul Kumar</editor>
+<editor pid="51/3678">Vinay Kulkarni</editor>
+<editor pid="r/RaghuReddy">Y. Raghu Reddy</editor>
+<editor pid="86/10957">Meenakshi D'Souza</editor>
+<editor pid="54/5083">Swarup Mohalik</editor>
+<editor pid="177/5630">Mahesh Babu Jayaraman</editor>
+<title>Joint Proceedings of the 2nd Modelling Symposium (ModSym) and the Workshop on Software Architectures for Adaptive Autonomous Systems (SAAAS) co-located with the 9th India Software Engineering Conference (ISEC 2016), Goa, India, February 18, 2016.</title>
+<booktitle>ModSym+SAAAS@ISEC</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>1561</volume>
+<year>2016</year>
+<ee type="oa">http://ceur-ws.org/Vol-1561</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-1561-0</ee>
+<url>db/conf/indiaSE/modsym-saaas2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigsoft/SurekaRMT15" mdate="2020-09-17">
+<author pid="s/AshishSureka">Ashish Sureka</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="05/6380">Pornsiri Muenchaisri</author>
+<author pid="06/4286">Masateru Tsunoda</author>
+<title>A Report on Software Engineering Education Workshop (SEEW) 2014 Co-Located with Asia-Pacific Software Engineering Conference 2014.</title>
+<pages>40-43</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2693208.2693250</ee>
+<url>db/journals/sigsoft/sigsoft40.html#SurekaRMT15</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/ChimalakondaRS15" mdate="2020-09-17">
+<author pid="76/1783">Sridhar Chimalakonda</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="00/6395">Rakesh Shukla</author>
+<title>Moving Beyond: Insights from 1st International Workshop on Software Engineering Research and Industrial Practices (SER&#38;IPs 2014).</title>
+<pages>28-31</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2735399.2735418</ee>
+<url>db/journals/sigsoft/sigsoft40.html#ChimalakondaRS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/apsec/KarreR15" mdate="2019-05-28">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>An Industrial Case Study on Improving Quality in Integrated Software Product using defect dependency.</title>
+<pages>1-8</pages>
+<year>2015</year>
+<booktitle>QuASoQ/WAWSE/CMCE@APSEC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1519/paper1.pdf</ee>
+<crossref>conf/apsec/2015quasoq</crossref>
+<url>db/conf/apsec/quasoq2015.html#KarreR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apsec/MathurR15" mdate="2019-05-28">
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Correctness of Semantic Code Smell Detection Tools.</title>
+<pages>17-22</pages>
+<year>2015</year>
+<booktitle>QuASoQ/WAWSE/CMCE@APSEC</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1519/paper3.pdf</ee>
+<crossref>conf/apsec/2015quasoq</crossref>
+<url>db/conf/apsec/quasoq2015.html#MathurR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aswec/MaheshwariR15" mdate="2018-11-06">
+<author pid="175/4082">Yogesh Maheshwari</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Transformation of Flash files to HTML5 and JavaScript.</title>
+<pages>23-27</pages>
+<year>2015</year>
+<booktitle>ASWEC (2)</booktitle>
+<ee>https://doi.org/10.1145/2811681.2811686</ee>
+<crossref>conf/aswec/2015-2</crossref>
+<url>db/conf/aswec/aswec2015-2.html#MaheshwariR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aswec/SripadaR15" mdate="2017-05-24">
+<author pid="167/1244">Saikrishna Sripada</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Code Comprehension Activities in Undergraduate Software Engineering Course - A Case Study.</title>
+<pages>68-77</pages>
+<year>2015</year>
+<booktitle>ASWEC</booktitle>
+<ee>https://doi.org/10.1109/ASWEC.2015.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ASWEC.2015.18</ee>
+<crossref>conf/aswec/2015</crossref>
+<url>db/conf/aswec/aswec2015.html#SripadaR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/SripadaRS15" mdate="2017-05-17">
+<author pid="167/1244">Saikrishna Sripada</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="s/AshishSureka">Ashish Sureka</author>
+<title>In Support of Peer Code Review and Inspection in an Undergraduate Software Engineering Course.</title>
+<pages>3-6</pages>
+<year>2015</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET.2015.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSEET.2015.8</ee>
+<crossref>conf/csee/2015</crossref>
+<url>db/conf/csee/csee2015.html#SripadaRS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/enase/KarreR15a" mdate="2017-05-19">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Heuristic Approaches to Improve Product Quality in Large Scale Integrated Software Products.</title>
+<pages>80-97</pages>
+<year>2015</year>
+<booktitle>ENASE (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30243-0_5</ee>
+<crossref>conf/enase/2015s</crossref>
+<url>db/conf/enase/enase2015s.html#KarreR15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/enase/KarreR15" mdate="2021-08-09">
+<author pid="166/2399">Sai Anirudh Karre</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>A Defect Dependency based Approach to Improve Software Quality in Integrated Software Products.</title>
+<pages>110-117</pages>
+<year>2015</year>
+<booktitle>ENASE</booktitle>
+<ee>https://doi.org/10.5220/0005368801100117</ee>
+<ee>https://ieeexplore.ieee.org/document/7320343/</ee>
+<crossref>conf/enase/2015</crossref>
+<url>db/conf/enase/enase2015.html#KarreR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/enase/MohanMR15a" mdate="2017-05-19">
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Improving Mobile Banking Usability Based on Sentiments.</title>
+<pages>180-194</pages>
+<year>2015</year>
+<booktitle>ENASE (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30243-0_10</ee>
+<crossref>conf/enase/2015s</crossref>
+<url>db/conf/enase/enase2015s.html#MohanMR15a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/enase/MohanMR15" mdate="2021-08-09">
+<author pid="192/7511">Lalit Mohan S.</author>
+<author pid="166/2375">Neeraj Mathur</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Mobile App Usability Index (MAUI) for Improving Mobile Banking Adoption.</title>
+<pages>313-320</pages>
+<year>2015</year>
+<booktitle>ENASE</booktitle>
+<ee>https://doi.org/10.5220/0005363003130320</ee>
+<ee>https://ieeexplore.ieee.org/document/7320375/</ee>
+<crossref>conf/enase/2015</crossref>
+<url>db/conf/enase/enase2015.html#MohanMR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/CherukupalliR15" mdate="2018-11-06">
+<author pid="158/5798">Prabhakar Cherukupalli</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Reengineering Enterprise Wide Legacy BFSI Systems: Industrial case study.</title>
+<pages>40-49</pages>
+<year>2015</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/2723742.2723746</ee>
+<crossref>conf/indiaSE/2015</crossref>
+<url>db/conf/indiaSE/isec2015.html#CherukupalliR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indiaSE/ReddyK15" mdate="2018-11-06">
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="51/3678">Vinay Kulkarni</author>
+<title>A Report on Modelling Symposium (ModSym).</title>
+<pages>204-205</pages>
+<year>2015</year>
+<booktitle>ISEC</booktitle>
+<ee>https://doi.org/10.1145/2723742.2723770</ee>
+<crossref>conf/indiaSE/2015</crossref>
+<url>db/conf/indiaSE/isec2015.html#ReddyK15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/ReddySC15" mdate="2018-11-06">
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="165/3804">Anish Shankar</author>
+<author pid="165/3789">Madhavan Chetlur</author>
+<title>Incremental aspect weaving: an approach for faster AOP learning.</title>
+<pages>1480-1485</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695688</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#ReddySC15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/apsec/2015" mdate="2019-10-16">
+<editor pid="s/JingSun2">Jing Sun 0002</editor>
+<editor pid="r/RaghuReddy">Y. Raghu Reddy</editor>
+<editor pid="07/2190">Arun Bahulkar</editor>
+<editor pid="69/2282">Anjaneyulu Pasala</editor>
+<title>2015 Asia-Pacific Software Engineering Conference, APSEC 2015, New Delhi, India, December 1-4, 2015</title>
+<booktitle>APSEC</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2015</year>
+<isbn>978-1-4673-9644-8</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7467057/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/apsec/2015/9644/00/index.html</ee>
+<url>db/conf/apsec/apsec2015.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/csee/ReddyN14" mdate="2017-05-17">
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="08/11295">Kesav V. Nori</author>
+<title>Teaching software product engineering in undergraduate computing curriculum.</title>
+<pages>175-178</pages>
+<year>2014</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET.2014.6816798</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CSEET.2014.6816798</ee>
+<crossref>conf/csee/2014</crossref>
+<url>db/conf/csee/csee2014.html#ReddyN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecce/AggarwalORI14" mdate="2018-11-06">
+<author pid="128/3143">Sonal Aggarwal</author>
+<author pid="13/3988">Herre van Oostendorp</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="92/1551">Bipin Indurkhya</author>
+<title>Providing Web Credibility Assessment Support.</title>
+<pages>29: 1-29: 8</pages>
+<year>2014</year>
+<booktitle>ECCE</booktitle>
+<ee>https://doi.org/10.1145/2637248.2637260</ee>
+<crossref>conf/ecce/2014</crossref>
+<url>db/conf/ecce/ecce2014.html#AggarwalORI14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/t4e/ChoudharyCRR14" mdate="2017-05-21">
+<author pid="157/1351">Nurendra Choudhary</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="157/1251">Thirumal Ravula</author>
+<title>Any Time Virtual Labs: On Portable Media and as Debian Packages.</title>
+<pages>28-31</pages>
+<year>2014</year>
+<booktitle>T4E</booktitle>
+<ee>https://doi.org/10.1109/T4E.2014.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/T4E.2014.9</ee>
+<crossref>conf/t4e/2014</crossref>
+<url>db/conf/t4e/t4e2014.html#ChoudharyCRR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/t4e/AgarwalRPCCR14" mdate="2017-05-21">
+<author pid="69/10948">Jatin Agarwal</author>
+<author pid="157/1289">Utkarsh Rastogiy</author>
+<author pid="36/11103">Prateek Pandey</author>
+<author pid="157/1351">Nurendra Choudhary</author>
+<author pid="44/7025">Venkatesh Choppella</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<title>Large Scale Web Page Optimization of Virtual Labs.</title>
+<pages>146-147</pages>
+<year>2014</year>
+<booktitle>T4E</booktitle>
+<ee>https://doi.org/10.1109/T4E.2014.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/T4E.2014.51</ee>
+<crossref>conf/t4e/2014</crossref>
+<url>db/conf/t4e/t4e2014.html#AgarwalRPCCR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AsifR13" mdate="2017-05-23">
+<author pid="157/9220">Mohammad Asif</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>JIFFY: A framework for encompassing aspects in testing and debugging software.</title>
+<pages>146-149</pages>
+<year>2013</year>
+<booktitle>AST</booktitle>
+<ee>https://doi.org/10.1109/IWAST.2013.6595806</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IWAST.2013.6595806</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2662445</ee>
+<crossref>conf/icse/2013ast</crossref>
+<url>db/conf/icse/ast2013.html#AsifR13</url>
+</inproceedings>
+</r>
+<r><article key="journals/pc/MininniRRP11" mdate="2020-02-22">
+<author orcid="0000-0001-6858-6755" pid="22/9054">Pablo D. Mininni</author>
+<author pid="85/9816">Duane Rosenberg</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="19/9817">Annick Pouquet</author>
+<title>A hybrid MPI-OpenMP scheme for scalable parallel pseudospectral computations for fluid turbulence.</title>
+<pages>316-326</pages>
+<year>2011</year>
+<volume>37</volume>
+<journal>Parallel Comput.</journal>
+<number>6-7</number>
+<ee>https://doi.org/10.1016/j.parco.2011.05.004</ee>
+<ee>https://www.wikidata.org/entity/Q57556247</ee>
+<url>db/journals/pc/pc37.html#MininniRRP11</url>
+</article>
+</r>
+<r><inproceedings key="conf/serp/SimmondsRSG09" mdate="2010-03-01">
+<author pid="75/1631">Devon M. Simmonds</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="02/3874">Eunjee Song</author>
+<author pid="05/1976">Emanuel S. Grant</author>
+<title>A Comparison of Aspect-Oriented Approaches to Model Driven Engineering.</title>
+<pages>327-333</pages>
+<year>2009</year>
+<booktitle>Software Engineering Research and Practice</booktitle>
+<crossref>conf/serp/2009</crossref>
+<url>db/conf/serp/serp2009.html#SimmondsRSG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/serp/RathodR09" mdate="2009-11-05">
+<author pid="50/7507">Varsha Rathod</author>
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<title>Role of Early Aspects in Software Maintenance Projects.</title>
+<pages>550-555</pages>
+<year>2009</year>
+<booktitle>Software Engineering Research and Practice</booktitle>
+<crossref>conf/serp/2009</crossref>
+<url>db/conf/serp/serp2009.html#RathodR09</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/Henderson-SellersFGR07" mdate="2020-02-20">
+<author pid="45/5440">Brian Henderson-Sellers</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="66/1355">Geri Georg</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<title>A method engineering approach to developing aspect-oriented modelling processes based on the OPEN process framework.</title>
+<pages>761-773</pages>
+<year>2007</year>
+<volume>49</volume>
+<journal>Inf. Softw. Technol.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1016/j.infsof.2006.08.003</ee>
+<url>db/journals/infsof/infsof49.html#Henderson-SellersFGR07</url>
+</article>
+</r>
+<r><inproceedings key="conf/edoc/FranceFRBG07" mdate="2017-05-17">
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="27/513">Franck Fleurey</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="57/3320">Benoit Baudry</author>
+<author pid="g/SudiptoGhosh">Sudipto Ghosh</author>
+<title>Providing Support for Model Composition in Metamodels.</title>
+<pages>253-266</pages>
+<year>2007</year>
+<crossref>conf/edoc/2007</crossref>
+<booktitle>EDOC</booktitle>
+<ee>https://doi.org/10.1109/EDOC.2007.55</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EDOC.2007.55</ee>
+<url>db/conf/edoc/edoc2007.html#FranceFRBG07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcis/SolbergSRFGA06" mdate="2017-05-18">
+<author pid="46/2753">Arnor Solberg</author>
+<author pid="75/1631">Devon M. Simmonds</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="g/SudiptoGhosh">Sudipto Ghosh</author>
+<author pid="48/1767">Jan &#216;yvind Aagedal</author>
+<title>Developing Distributed Services Using an Aspect Oriented Model Driven Framework.</title>
+<pages>535-564</pages>
+<year>2006</year>
+<volume>15</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S0218843006001487</ee>
+<url>db/journals/ijcis/ijcis15.html#SolbergSRFGA06</url>
+</article>
+</r>
+<r><article key="journals/taosd/ReddyGFSBMSG06" mdate="2021-02-02">
+<author pid="r/RaghuReddy">Y. Raghu Reddy</author>
+<author pid="g/SudiptoGhosh">Sudipto Ghosh</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="16/877">Greg Straw</author>
+<author pid="b/JamesMBieman">James M. Bieman</author>
+<author pid="08/4728">Nathan McEachen</author>
+<author pid="02/3874">Eunjee Song</author>
+<author pid="66/1355">Geri Georg</author>
+<title>Directives for Composing Aspect-Oriented Design Class Models.</title>
+<pages>75-105</pages>
+<year>2006</year>
+<crossref>journals/taosd/2006-1</crossref>
+<volume>1</volume>
+<journal>LNCS Trans. Aspect Oriented Softw. Dev.</journal>
+<ee>https://doi.org/10.1007/11687061_3</ee>
+<url>db/journals/taosd/taosd1.html#ReddyGFSBMSG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/SolbergSRGF05" mdate="2017-05-21">
+<author pid="46/2753">Arnor Solberg</author>
+<author pid="75/1631">Devon M. Simmonds</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="g/SudiptoGhosh">Sudipto Ghosh</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<title>Using Aspect Oriented Techniques to Support Separation of Concerns in Model Driven Development.</title>
+<pages>121-126</pages>
+<year>2005</year>
+<crossref>conf/compsac/2005</crossref>
+<booktitle>COMPSAC (1)</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC.2005.168</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2005.168</ee>
+<url>db/conf/compsac/compsac2005-1.html#SolbergSRGF05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edoc/SimmondsRFGS05" mdate="2017-05-17">
+<author pid="75/1631">Devon M. Simmonds</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="g/SudiptoGhosh">Sudipto Ghosh</author>
+<author pid="46/2753">Arnor Solberg</author>
+<title>An Aspect Oriented Model Driven Framework.</title>
+<pages>119-130</pages>
+<year>2005</year>
+<crossref>conf/edoc/2005</crossref>
+<booktitle>EDOC</booktitle>
+<ee>https://doi.org/10.1109/EDOC.2005.5</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EDOC.2005.5</ee>
+<url>db/conf/edoc/edoc2005.html#SimmondsRFGS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sacmat/SongRFRGA05" mdate="2018-11-06">
+<author pid="02/3874">Eunjee Song</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<author pid="r/IndrakshiRay">Indrakshi Ray</author>
+<author pid="66/1355">Geri Georg</author>
+<author pid="60/5998">Roger T. Alexander</author>
+<title>Verifiable composition of access control and application features.</title>
+<pages>120-129</pages>
+<year>2005</year>
+<crossref>conf/sacmat/2005</crossref>
+<booktitle>SACMAT</booktitle>
+<ee>https://doi.org/10.1145/1063979.1064001</ee>
+<url>db/conf/sacmat/sacmat2005.html#SongRFRGA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uml/GeorgRF04" mdate="2017-05-24">
+<author pid="66/1355">Geri Georg</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<author pid="f/RBFrance">Robert B. France</author>
+<title>Specifying Cross-Cutting Requirement Concerns.</title>
+<pages>113-127</pages>
+<ee>https://doi.org/10.1007/978-3-540-30187-5_9</ee>
+<year>2004</year>
+<crossref>conf/uml/2004</crossref>
+<booktitle>UML</booktitle>
+<url>db/conf/uml/uml2004.html#GeorgRF04</url>
+</inproceedings>
+</r>
+<r><article key="journals/ccr/MathisHR03" mdate="2020-09-06">
+<author pid="00/3534">Matthew Mathis</author>
+<author pid="65/2252">John Heffner</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<title>Web100: extended TCP instrumentation for research, education and diagnosis.</title>
+<pages>69-79</pages>
+<year>2003</year>
+<volume>33</volume>
+<journal>Comput. Commun. Rev.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/956993.957002</ee>
+<url>db/journals/ccr/ccr33.html#MathisHR03</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceccs/GhoshBGR02" mdate="2017-05-26">
+<author pid="g/SudiptoGhosh">Sudipto Ghosh</author>
+<author pid="93/2824">Nishant Bawa</author>
+<author pid="49/809">Sameer Goel</author>
+<author pid="r/RaghuReddy">Raghu Reddy</author>
+<title>Validating Run-time Interactions in Distributed Java Applications.</title>
+<pages>7-16</pages>
+<year>2002</year>
+<crossref>conf/iceccs/2002</crossref>
+<booktitle>ICECCS</booktitle>
+<ee>https://doi.org/10.1109/ICECCS.2002.1181493</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICECCS.2002.1181493</ee>
+<url>db/conf/iceccs/iceccs2002.html#GhoshBGR02</url>
+</inproceedings>
+</r>
+<coauthors n="96" nc="4">
+<co c="0"><na f="a/Aagedal:Jan_=Oslash=yvind" pid="48/1767">Jan &#216;yvind Aagedal</na></co>
+<co c="0"><na f="a/Agarwal:Jatin" pid="69/10948">Jatin Agarwal</na></co>
+<co c="0"><na f="a/Aggarwal:Sonal" pid="128/3143">Sonal Aggarwal</na></co>
+<co c="0"><na f="a/Agrawal:Shriyansh" pid="216/7229">Shriyansh Agrawal</na></co>
+<co c="0"><na f="a/Ahmad:Shadab" pid="232/7343">Shadab Ahmad</na></co>
+<co c="0"><na f="a/Alexander:Roger_T=" pid="60/5998">Roger T. Alexander</na></co>
+<co c="-1"><na f="a/Asif:Mohammad" pid="157/9220">Mohammad Asif</na></co>
+<co c="0"><na f="b/Bahulkar:Arun" pid="07/2190">Arun Bahulkar</na></co>
+<co c="0"><na f="b/Baudry:Benoit" pid="57/3320">Benoit Baudry</na></co>
+<co c="0"><na f="b/Bawa:Nishant" pid="93/2824">Nishant Bawa</na></co>
+<co c="0"><na f="b/Bellur:Umesh" pid="54/4697">Umesh Bellur</na></co>
+<co c="0"><na f="b/Bhatore:Siddharth" pid="278/7194">Siddharth Bhatore</na></co>
+<co c="0"><na f="b/Bieman:James_M=" pid="b/JamesMBieman">James M. Bieman</na></co>
+<co c="0"><na f="b/Budhiraja:Amar" pid="172/7740">Amar Budhiraja</na></co>
+<co c="-1"><na f="c/Cherukupalli:Prabhakar" pid="158/5798">Prabhakar Cherukupalli</na></co>
+<co c="2"><na f="c/Chetlur:Madhavan" pid="165/3789">Madhavan Chetlur</na></co>
+<co c="0"><na f="c/Chimalakonda:Sridhar" pid="76/1783">Sridhar Chimalakonda</na></co>
+<co c="0"><na f="c/Choppella:Venkatesh" pid="44/7025">Venkatesh Choppella</na></co>
+<co c="0"><na f="c/Choudhary:Nurendra" pid="157/1351">Nurendra Choudhary</na></co>
+<co c="0"><na f="c/Cleland=Huang:Jane" pid="c/JaneClelandHuang">Jane Cleland-Huang</na></co>
+<co c="0"><na f="d/Damaraju:Mrudhivka" pid="279/3275">Mrudhivka Damaraju</na></co>
+<co c="0"><na f="d/D=Souza:Meenakshi" pid="86/10957">Meenakshi D'Souza</na></co>
+<co c="0"><na f="d/Dutta:Kartik" pid="193/4957">Kartik Dutta</na></co>
+<co c="0"><na f="f/Fleurey:Franck" pid="27/513">Franck Fleurey</na></co>
+<co c="0"><na f="f/France:Robert_B=" pid="f/RBFrance">Robert B. France</na></co>
+<co c="0"><na f="g/Gangadharan:G=_R=" pid="10/3459">G. R. Gangadharan</na></co>
+<co c="0"><na f="g/Georg:Geri" pid="66/1355">Geri Georg</na></co>
+<co c="0"><na f="g/Ghosh:Sudipto" pid="g/SudiptoGhosh">Sudipto Ghosh</na></co>
+<co c="0"><na f="g/Goel:Sameer" pid="49/809">Sameer Goel</na></co>
+<co c="0"><na f="g/Grant:Emanuel_S=" pid="05/1976">Emanuel S. Grant</na></co>
+<co c="3"><na f="h/Heffner:John" pid="65/2252">John Heffner</na></co>
+<co c="0"><na f="h/Henderson=Sellers:Brian" pid="45/5440">Brian Henderson-Sellers</na></co>
+<co c="0"><na f="i/Indurkhya:Bipin" pid="92/1551">Bipin Indurkhya</na></co>
+<co c="0"><na f="i/Iyer:Vivek" pid="13/6608">Vivek Iyer</na></co>
+<co c="0"><na f="j/Jayaraman:Mahesh_Babu" pid="177/5630">Mahesh Babu Jayaraman</na></co>
+<co c="0"><na f="j/Jesrani:Avni" pid="258/2268">Avni Jesrani</na></co>
+<co c="0"><na f="k/Karkare:Amey" pid="93/511">Amey Karkare</na></co>
+<co c="0"><na f="k/Karre:Sai_Anirudh" pid="166/2399">Sai Anirudh Karre</na></co>
+<co c="0"><na f="k/Khandelwal:Shivam" pid="175/1082">Shivam Khandelwal</na></co>
+<co c="0"><na f="k/Kim:Dae=Kyoo" pid="k/DaeKyooKim">Dae-Kyoo Kim</na></co>
+<co c="0"><na f="k/Kulkarni:Vinay" pid="51/3678">Vinay Kulkarni</na></co>
+<co c="0"><na f="k/Kumar:Atul" pid="67/103">Atul Kumar</na></co>
+<co c="0"><na f="k/Kuri:Mohit" pid="291/3748">Mohit Kuri</na></co>
+<co c="0"><na f="l/Loganathan:Ramesh" pid="136/4557">Ramesh Loganathan</na></co>
+<co c="-1"><na f="m/Maheshwari:Yogesh" pid="175/4082">Yogesh Maheshwari</na></co>
+<co c="3"><na f="m/Mathis:Matthew" pid="00/3534">Matthew Mathis</na></co>
+<co c="0"><na f="m/Mathur:Neeraj" pid="166/2375">Neeraj Mathur</na></co>
+<co c="0"><na f="m/McEachen:Nathan" pid="08/4728">Nathan McEachen</na></co>
+<co c="1"><na f="m/Mininni:Pablo_D=" pid="22/9054">Pablo D. Mininni</na></co>
+<co c="0"><na f="m/Mittal:Raghav" pid="293/6645">Raghav Mittal</na></co>
+<co c="0"><na f="m/Mohalik:Swarup" pid="54/5083">Swarup Mohalik</na></co>
+<co c="0"><na f="m/Muenchaisri:Pornsiri" pid="05/6380">Pornsiri Muenchaisri</na></co>
+<co c="0"><na f="n/Naik:R=_D=" pid="175/1052">R. D. Naik</na></co>
+<co c="0"><na f="n/Nistala:Padmalata" pid="175/1062">Padmalata Nistala</na></co>
+<co c="0" n="2"><na f="n/Nori:Kesav_V=" pid="08/11295">Kesav V. Nori</na><na>Kesav Vithal Nori</na></co>
+<co c="0"><na f="o/Oostendorp:Herre_van" pid="13/3988">Herre van Oostendorp</na></co>
+<co c="0"><na f="p/Pal:Rajarshi" pid="18/2296">Rajarshi Pal</na></co>
+<co c="0"><na f="p/Pandey:Prateek" pid="36/11103">Prateek Pandey</na></co>
+<co c="0"><na f="p/Parashar:Dhruv" pid="291/4268">Dhruv Parashar</na></co>
+<co c="0"><na f="p/Pasala:Anjaneyulu" pid="69/2282">Anjaneyulu Pasala</na></co>
+<co c="0"><na f="p/Pesaladinne:Pranav_Reddy" pid="269/6054">Pranav Reddy Pesaladinne</na></co>
+<co c="0"><na f="p/Pichen:Jahfar_Ali" pid="281/2471">Jahfar Ali Pichen</na></co>
+<co c="0"><na f="p/Pillutla:Ravi_Shankar" pid="138/2769">Ravi Shankar Pillutla</na></co>
+<co c="1"><na f="p/Pouquet:Annick" pid="19/9817">Annick Pouquet</na></co>
+<co c="0" n="2"><na f="p/Prasad:Gollapudi_V=_R=_J=_Sai" pid="141/8540">Gollapudi V. R. J. Sai Prasad</na><na>Sai Gollapudi</na></co>
+<co c="0"><na f="p/Purandare:Rahul" pid="65/5006">Rahul Purandare</na></co>
+<co c="0"><na f="r/Raghavan:K=_V=" pid="255/0434">K. V. Raghavan</na></co>
+<co c="0"><na f="r/Raman:Priya" pid="192/7534">Priya Raman</na></co>
+<co c="0"><na f="r/Rastogiy:Utkarsh" pid="157/1289">Utkarsh Rastogiy</na></co>
+<co c="-1"><na f="r/Rathod:Varsha" pid="50/7507">Varsha Rathod</na></co>
+<co c="0"><na f="r/Ravula:Thirumal" pid="157/1251">Thirumal Ravula</na></co>
+<co c="0"><na f="r/Ray:Indrakshi" pid="r/IndrakshiRay">Indrakshi Ray</na></co>
+<co c="0"><na f="r/Rizwi:Syed_Mohd_Ali" pid="281/2532">Syed Mohd Ali Rizwi</na></co>
+<co c="1"><na f="r/Rosenberg:Duane" pid="85/9816">Duane Rosenberg</na></co>
+<co c="0"><na f="r/Ryoo:Jungwoo" pid="93/3986">Jungwoo Ryoo</na></co>
+<co c="0" n="3"><na f="s/S=:Lalit_Mohan" pid="192/7511">Lalit Mohan S.</na><na>Lalit Mohan Sanagavarapu</na><na>Lalit Sanagavarapu</na></co>
+<co c="0"><na f="s/Sarangi:Sourav" pid="214/8651">Sourav Sarangi</na></co>
+<co c="0"><na f="s/Sarkar:Santonu" pid="00/1826">Santonu Sarkar</na></co>
+<co c="0"><na f="s/Sengupta:Shubashsis" pid="214/7087">Shubashsis Sengupta</na></co>
+<co c="2"><na f="s/Shankar:Anish" pid="165/3804">Anish Shankar</na></co>
+<co c="0"><na f="s/Sharma:Dipti" pid="245/9432">Dipti Sharma</na></co>
+<co c="0"><na f="s/Sharma:Naveen" pid="23/1972">Naveen Sharma</na></co>
+<co c="0"><na f="s/Sharma:Richa" pid="86/11292">Richa Sharma</na></co>
+<co c="0"><na f="s/Shekar:Shivang" pid="269/5924">Shivang Shekar</na></co>
+<co c="0"><na f="s/Shrivastava_0001:Manish" pid="65/3881">Manish Shrivastava 0001</na></co>
+<co c="0"><na f="s/Shukla:Anveshi" pid="202/2542">Anveshi Shukla</na></co>
+<co c="0"><na f="s/Shukla:Rakesh" pid="00/6395">Rakesh Shukla</na></co>
+<co c="0"><na f="s/Simmonds:Devon_M=" pid="75/1631">Devon M. Simmonds</na></co>
+<co c="0"><na f="s/Solberg:Arnor" pid="46/2753">Arnor Solberg</na></co>
+<co c="0"><na f="s/Song:Eunjee" pid="02/3874">Eunjee Song</na></co>
+<co c="0"><na f="s/Sripada:Saikrishna" pid="167/1244">Saikrishna Sripada</na></co>
+<co c="0"><na f="s/Straw:Greg" pid="16/877">Greg Straw</na></co>
+<co c="0"><na f="s/Sun_0002:Jing" pid="s/JingSun2">Jing Sun 0002</na></co>
+<co c="0"><na f="s/Sureka:Ashish" pid="s/AshishSureka">Ashish Sureka</na></co>
+<co c="0"><na f="t/Tsunoda:Masateru" pid="06/4286">Masateru Tsunoda</na></co>
+<co c="0"><na f="v/Varma:Vasudeva" pid="03/4045">Vasudeva Varma</na></co>
+</coauthors>
+</dblpperson>
+
