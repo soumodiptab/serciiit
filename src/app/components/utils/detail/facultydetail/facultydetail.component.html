@@ -1,0 +1,15 @@
+<div *ngIf="f" class="container">
+    <h2>{{f.name | uppercase}} Details</h2>
+    <div class="container m-3 p-3">
+      <label for="faculty-name" class="form-label mt-4">Faculty name: </label>
+      <input id="faculty-name" [(ngModel)]="f.name" placeholder="Faculty name" class="form-control"/>
+      <br>
+      <label for="faculty-title" class="form-label mt-4">Faculty Title: </label>
+      <input id="faculty-title" [(ngModel)]="f.title" placeholder="Title" class="form-control"/>
+      <br>
+      <label for="faculty-imgsrc" class="form-label mt-4">Image Link: </label>
+      <input id="faculty-imgsrc" [(ngModel)]="f.imgsrc" placeholder="Image Link" class="form-control"/>
+    </div>
+    <button (click)="goBack()" class="btn btn-primary">go back</button>
+    <button (click)="save()" class="btn btn-dark">save</button>
+  </div>

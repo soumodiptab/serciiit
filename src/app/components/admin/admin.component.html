@@ -1,4 +1,13 @@
-<div class="container">
-    <p>admin works!</p>
-    <app-people-input></app-people-input>
+<div class="container card mt-3 p-3">
+    <h2>Faculties</h2>
+    <br>
+    <ul class="heroes">
+        <li *ngFor="let f of faculties">
+          <a routerLink="/detail/{{f.id}}">
+            <span class="badge">{{f.id}}</span> {{f.name}}
+          </a>
+          <button class="btn btn-dark rounded-circle" title="del"
+            (click)="delete(f)">x</button>
+        </li>
+    </ul>
 </div>

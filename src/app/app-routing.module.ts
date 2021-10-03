@@ -16,6 +16,7 @@ import { DownloadsComponent } from './components/resources/downloads/downloads.c
 import { PosterComponent } from './components/resources/poster/poster.component';
 import { ProjectsComponent } from './components/resources/projects/projects.component';
 import { TeachingComponent } from './components/resources/teaching/teaching.component';
+import { FacultydetailComponent } from './components/utils/detail/facultydetail/facultydetail.component';
 
 const routes: Routes = [
   {
@@ -31,6 +32,7 @@ const routes: Routes = [
     redirectTo: '/home',
     pathMatch: 'full'
   },
+  { path: 'detail/:id', component:  FacultydetailComponent},
   {
     path: 'people',
         children: [

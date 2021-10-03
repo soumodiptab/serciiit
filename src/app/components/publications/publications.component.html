@@ -1,1 +1,12 @@
 <p>publications works!</p>
+<span>{{singlePersonData.person.author}}</span>
+<button (click)="change()"></button>
+<div class="container card">
+    <ul>
+        <li *ngFor="let record of singlePersonData.r">
+            <div>
+                <span *ngFor="let auth of record.inproceedings.author">{{auth}} </span>
+            </div>
+        </li>
+    </ul>
+</div>

@@ -1,6 +1,7 @@
 export class faculty {
+    id:number;
     name: string;
     title: string;
     research: string[];
-    about: string;
-}
+    imgsrc: string;
+};

@@ -1,8 +1,11 @@
 import { faculty } from "../classes/faculty";
 export const Faculties: faculty[] = [
-    {name:"Raghu Reddy 1",title:"Associate Professor & Head",research:["as","bs"],about:"i am here"},
-    {name:"Raghu Reddy 2",title:"Associate Professor & Head",research:["as","bs"],about:"i am here"},
-    {name:"Raghu Reddy 3",title:"Associate Professor & Head",research:["as","bs"],about:"i am here"},
+    {id:1, name:"Raghu Reddy",title:"Associate Professor & Head",research:["Model Driven Development","Software Requirements and Architecture","Verification & Validation","Usability and Software engineering education"],imgsrc:"https://serc.iiit.ac.in/static/images/people/6.jpg"},
+    {id:2, name:"Venkatesh Choppella",title:"Associate Professor",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Venkatesh_Choppella.jpg"},
+    {id:3, name:"Vasudeva Varma",title:"Professor & Dean (Research)",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/DSC_0320.jpg"},
+    {id:4, name:"Ramesh Loganathan",title:"PROFESSOR CO-INNOVATION",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Ramesh.jpg"}
 ];
 export const DFaculties: faculty[] = [
+    {id:1, name:"Kesav V. Nori",title:"Distinguished Professor",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/nori.jpg"},
+    {id:2, name:"Viswanath Kasturi",title:"Research Professor of Eminence",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Viswanath_Kasturi_bGLSrXt.JPG"}
 ];

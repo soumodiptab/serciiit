@@ -1,1 +1,13 @@
-<p>phd works!</p>
+<div class="container">
+    <h1>PHD Students</h1>
+    <hr>
+    <h2>Full Time</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of fstudents" [s]="stud"></app-student-card>
+    </div>
+    <hr>
+    <h2>Distinguished/Adjunct/Visiting</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of pstudents" [s]="stud"></app-student-card>
+    </div>
+</div>

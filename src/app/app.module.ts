@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
+import { InMemoryDataService } from './in-memory-data.service';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
@@ -24,7 +25,9 @@ import { DemosComponent } from './components/resources/demos/demos.component';
 import { DatasetComponent } from './components/resources/dataset/dataset.component';
 import { PosterComponent } from './components/resources/poster/poster.component';
 import { ContactComponent } from './components/contact/contact.component';
-
+import { StudentCardComponent } from './components/util/student-card/student-card.component';
+import { HttpClientModule } from '@angular/common/http';
+import { FacultydetailComponent } from './components/utils/detail/facultydetail/facultydetail.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -47,12 +50,18 @@ import { ContactComponent } from './components/contact/contact.component';
     DemosComponent,
     DatasetComponent,
     PosterComponent,
-    ContactComponent
+    ContactComponent,
+    StudentCardComponent,
+    FacultydetailComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    HttpClientInMemoryWebApiModule.forRoot(
+    InMemoryDataService, { dataEncapsulation: false }
+    )
   ],
   providers: [],
   bootstrap: [AppComponent]
