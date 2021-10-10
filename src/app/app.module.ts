@@ -28,6 +28,8 @@ import { ContactComponent } from './components/contact/contact.component';
 import { StudentCardComponent } from './components/util/student-card/student-card.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FacultydetailComponent } from './components/utils/detail/facultydetail/facultydetail.component';
+import { NewsComponent } from './components/news/news.component';
+import { NgxTwitterTimelineModule } from 'ngx-twitter-timeline';
 @NgModule({
   declarations: [
     AppComponent,
@@ -52,13 +54,15 @@ import { FacultydetailComponent } from './components/utils/detail/facultydetail/
     PosterComponent,
     ContactComponent,
     StudentCardComponent,
-    FacultydetailComponent
+    FacultydetailComponent,
+    NewsComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     AppRoutingModule,
     HttpClientModule,
+    NgxTwitterTimelineModule,
     HttpClientInMemoryWebApiModule.forRoot(
     InMemoryDataService, { dataEncapsulation: false }
     )

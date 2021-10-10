@@ -1,1 +1,13 @@
-<p>btech works!</p>
+<div class="container">
+    <h1>B. Tech Students</h1>
+    <hr>
+    <h2>B.Tech. + Honors Students</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of hbtechstudents" [s]="stud"></app-student-card>
+    </div>
+    <hr>
+    <h2>Graduated B.Tech Students</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of gbtechstudents" [s]="stud"></app-student-card>
+    </div>
+</div>

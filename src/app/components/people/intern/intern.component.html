@@ -1,1 +1,8 @@
-<p>intern works!</p>
+<div class="container">
+    <h1>Project Interns</h1>
+    <hr>
+    <h2>Project Interns</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of pinterns" [s]="stud"></app-student-card>
+    </div>
+</div>

@@ -12,6 +12,7 @@ export class AdminComponent implements OnInit {
 
   ngOnInit(): void {
     this.getFaculties();
+    sessionStorage.setItem('hello','world');
     //document.body.contentEditable='true';
   }
   getFaculties():void {

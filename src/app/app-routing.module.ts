@@ -4,6 +4,7 @@ import { AdminComponent } from './components/admin/admin.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { FocusareaComponent } from './components/focusarea/focusarea.component';
 import { HomeComponent } from './components/home/home.component';
+import { NewsComponent } from './components/news/news.component';
 import { BtechComponent } from './components/people/btech/btech.component';
 import { FacultyComponent } from './components/people/faculty/faculty.component';
 import { InternComponent } from './components/people/intern/intern.component';
@@ -98,6 +99,10 @@ const routes: Routes = [
   {
     path: 'contact',
     component: ContactComponent
+  },
+  {
+    path: 'news',
+    component: NewsComponent
   }
 
 ];

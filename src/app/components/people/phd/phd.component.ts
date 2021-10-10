@@ -8,6 +8,7 @@ import { PPhdstudents,FPhdstudents,GPhdstudents } from 'src/app/data/student-dat
 export class PhdComponent implements OnInit {
   pstudents = PPhdstudents;
   fstudents = FPhdstudents;
+  gstudents = GPhdstudents;
   constructor() { }
 
   ngOnInit(): void {

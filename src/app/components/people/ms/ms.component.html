@@ -1,1 +1,18 @@
-<p>ms works!</p>
+<div class="container">
+    <h1>MS Students</h1>
+    <hr>
+    <h2>Full Time</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of fstudents" [s]="stud"></app-student-card>
+    </div>
+    <hr>
+    <h2>Dual Degree (B.Tech. + M.S.)</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of dstudents" [s]="stud"></app-student-card>
+    </div>
+    <hr>
+    <h2>Graduated</h2>
+    <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+        <app-student-card *ngFor="let stud of gstudents" [s]="stud"></app-student-card>
+    </div>
+</div>
