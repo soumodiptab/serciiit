@@ -1,12 +1,609 @@
-<p>publications works!</p>
-<span>{{singlePersonData.person.author}}</span>
-<button (click)="change()"></button>
-<div class="container card">
-    <ul>
-        <li *ngFor="let record of singlePersonData.r">
-            <div>
-                <span *ngFor="let auth of record.inproceedings.author">{{auth}} </span>
+<!--
+    <span>{{singlePersonData.person.author}}</span>
+    <button (click)="change()"></button>
+    <div class="container card">
+        <ul>
+            <li *ngFor="let record of singlePersonData.r">
+                <div>
+                    <span *ngFor="let auth of record.inproceedings.author">{{auth}} </span>
+                </div>
+            </li>
+        </ul>
+    </div>
+-->
+<div class="container">
+    <h1>Publications</h1>
+    <div class="card p-3 mb-3">
+        <div class="card-header">
+            <h3>Research</h3>
+        </div>
+        <div class="card-body">
+            <p>
+                To lead the software engineering research in India by addressing India specific issues in an industry driven environment.The SERC is a research and development center at IIIT Hyderabad conducting research in various domains of software engineering. The main objectives of SERC are to promote quality software development at universities through University Software Development Center and to operate closely with the industry by estabilishing touch points.
+            </p>
+        </div>
+    </div>
+    <div class="card p-3 mb-3">
+        <div class="card-header">
+            <h3>Conference and Workshop</h3>
+        </div>
+        <div class="card-body">
+            <ul class="publications" id="dynatable_conference-and-workshop">
+                <div>
+                    <li class="span4">
+                        <span class="authors">Shivang Shekar, Pranav Reddy Pesaladinne, <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                        </span>: <span class="title">"VREye: Exploring Human Visual Acuity Test Using Virtual Reality"</span>
+                        <span class="location">22nd HCI International Conference, HCII 2020, Copenhagen, Denmark, July 19-24, 2020, Proceedings, Part II. Lecture Notes in Computer Science 12191, Springer 2020, ISBN 978-3-030-49697-5 2020</span>
+                        <a href="https://serc.iiit.ac.in/publications/" target="_blank" rel="nofollow" class="link">
+                            <i class="fa fa-external-link"></i>
+                        </a>
+                    </li>
+                </div>
+                <div>
+                    <li class="span4">
+                        <span class="authors">Kodilkar, J; Kumthekar, V; Uprade, R; Kanade, C; Bhong, D; Sherkar, S; Nayak, S; Gupta, Y; Thigale, K; Amin, B;</span>: <span class="title">"Next Generation GMRT Monitor and Control System"</span>
+                        <span class="location">ASPC 2020</span> (pp. <span class="page">667</span>) <a href="https://serc.iiit.ac.in/publications/" target="_blank" rel="nofollow" class="link">
+                            <i class="fa fa-external-link"></i>
+                        </a>
+                    </li>
+                </div>
+                <div>
+                    <li class="span4">
+                        <span class="authors">Subhrojyoti Roy Chaudhuri, Amar Banerjee, N. Swaminathan, <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, Arpan Pal, P. Balamurali</span>: <span class="title">"A knowledge centric approach to conceptualizing robotic solutions."</span>
+                        <span class="location">ISEC 2019</span> (pp. <span class="page">12:1-12:11</span>) <a href="https://doi.org/10.1145/3299771.3299782" target="_blank" rel="nofollow" class="link">
+                            <i class="fa fa-external-link"></i>
+                        </a>
+                    </li>
+                </div>
+                <div>
+                    <li class="span4">
+                        <span class="authors">
+                            <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, Aseem Rastogi</span>: <span class="title">"Tutorials and Technical Briefings at ISEC 2019."</span>
+                            <span class="location">ISEC 2019</span> (pp. <span class="page">33:1-33:2</span>) <a href="https://doi.org/10.1145/3299771.3301648" target="_blank" rel="nofollow" class="link">
+                                <i class="fa fa-external-link"></i>
+                            </a>
+                        </li>
+                    </div>
+                    <div>
+                        <li class="span4">
+                            <span class="authors">
+                                <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                            </span>: <span class="title">"Is Virtual Reality Product Development different?: An Empirical Study on VR Product Development Practices."</span>
+                            <span class="location">ISEC 2019</span> (pp. <span class="page">3:1-3:11</span>) <a href="https://doi.org/10.1145/3299771.3299772" target="_blank" rel="nofollow" class="link">
+                                <i class="fa fa-external-link"></i>
+                            </a>
+                        </li>
+                    </div>
+                    <div>
+                        <li class="span4">
+                            <span class="authors">
+                                <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                            </span>: <span class="title">"Usability evaluation of VR products in industry: a systematic literature review."</span>
+                            <span class="location">SAC 2019</span> (pp. <span class="page">1845-1851</span>) <a href="https://doi.org/10.1145/3297280.3297462" target="_blank" rel="nofollow" class="link">
+                                <i class="fa fa-external-link"></i>
+                            </a>
+                        </li>
+                    </div>
+                    <div>
+                        <li class="span4">
+                            <span class="authors">Ravi Shankar Pillutla, <a href="/personal/lalit.mohan">Lalit Mohan</a>, <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, Avni Jesrani, Priya Raman, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                            </span>: <span class="title">"Towards Massively Open Online Virtual Internships in Computing Education"</span>
+                            <span class="location">The Tenth International Conference on Technology for Education 2019</span>
+                            <a href="https://ieeexplore.ieee.org/abstract/document/8983750" target="_blank" rel="nofollow" class="link">
+                                <i class="fa fa-external-link"></i>
+                            </a>
+                        </li>
+                    </div>
+                    <div>
+                        <li class="span4">
+                            <span class="authors">
+                                <a href="/personal/lalit.mohan">Lalit Mohan</a>, Jahfar Ali, Syed Mohd Ali Rizwi, Y Raghu Babu Reddy, Dipti M Sharma</span>: <span class="title">"Text Cohesion in CQA-Does it Impact Rating?"</span>
+                                <span class="location">The Seventh International Conference on Mining Intelligence and Knowledge Exploration (MIKE 2019) 2019</span>
+                                <a href="https://serc.iiit.ac.in/publications/" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Vivek Iyer, <a href="/personal/lalit.mohan">Lalit Mohan</a>, Y Raghu Babu Reddy, Mehar Bhatia</span>: <span class="title">"A Survey on Ontology Enrichment from Text"</span>
+                                <span class="location">The sixteenth International Conference on Natural Language Processing (ICON-2019) 2019</span>
+                                <a href="https://serc.iiit.ac.in/publications/" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Chaudhuri, Subhrojyoti Roy; Banerjee, Amar; Swaminathan, N; Choppella, Venkatesh; Pal, Arpan; Balamurali, P;</span>: <span class="title">"A knowledge centric approach to conceptualizing robotic solutions"</span>
+                                <span class="location">Proceedings of the 12th Innovations on Software Engineering Conference (formerly known as India Software Engineering Conference) 2019</span> (pp. <span class="page">01-09</span>) <a href="https://dl.acm.org/doi/10.1145/3299771.3299782" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Roy Chaudhuri, Subhrojyoti; Natarajan, Swaminathan; Banerjee, Amar; Choppella, Venkatesh;</span>: <span class="title">"Methodology to develop domain specific modeling languages"</span>
+                                <span class="location">Proceedings of the 17th ACM SIGPLAN International Workshop on Domain-Specific Modeling 2019</span> (pp. <span class="page">01-08</span>) <a href="https://dl.acm.org/doi/10.1145/3358501.3361235" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sai.gollapudi">Gollapudi V. R. J. Sai Prasad</a>, <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, <a href="/personal/sridhar.chimalakonda">Sridhar Chimalakonda</a>
+                                </span>: <span class="title">"A Style Sheets Based Approach for Semantic Transformation of Web Pages."</span>
+                                <span class="location">ICDCIT 2018</span> (pp. <span class="page">240-255</span>) <a href="https://doi.org/10.1007/978-3-319-72344-0_20" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sai.gollapudi">Gollapudi V. R. J. Sai Prasad</a>, <a href="/personal/sridhar.chimalakonda">Sridhar Chimalakonda</a>, <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>
+                                </span>: <span class="title">"Towards a Domain-Specific Language for the Renarration of Web Pages."</span>
+                                <span class="location">ISEC 2018</span> (pp. <span class="page">3:1-3:10</span>) <a href="http://doi.acm.org/10.1145/3172871.3172873" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Amar Banerjee, <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, <a href="/personal/k.viswanath">Viswanath Kasturi</a>, Swaminathan Natarajan, <a href="/personal/padmalata.nistala">Padmalata V. Nistala</a>, <a href="/personal/kesav.nori">Kesav V. Nori</a>
+                                </span>: <span class="title">"An Attempt at Explicating the Relationship between Knowledge, Systems and Engineering."</span>
+                                <span class="location">ISEC 2018</span> (pp. <span class="page">5:1-5:11</span>) <a href="http://doi.acm.org/10.1145/3172871.3172875" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4" data-color="gray">
+                                <div><span class="authors"></span>: <span class="title">Peterson’s Mutual Exclusion Algorithm as Feedback Control.</span> <span class="location">2nd Symposium on Application of Formal Methods for Safety Security of Critical Systems 2018</span>: <span class="page"></span> <a href="http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.ae9fd79eb27efe1a.5065746572736f6ee28099732d4d757475616c2d4578636c7573696f6e2d416c676f726974686d2d61732d466565646261636" target="_blank" rel="nofollow" class="link"><i class="fa fa-external-link"></i></a></div>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/lalit.mohan">Lalit Mohan Sanagavarapu</a>, <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/shriyansh.agrawal">Shriyansh Agrawal</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                                </span>: <span class="title">"SIREN - Security Information Retrieval and Extraction eNgine."</span>
+                                <span class="location">ECIR 2018</span> (pp. <span class="page">811-814</span>) <a href="https://doi.org/10.1007/978-3-319-76941-7_81" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/sai.anirudh">Sai Aniruddh Karre</a>, <a href="/personal/lalit.mohan">Lalit Mohan Sanagavarapu</a>, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                                </span>: <span class="title">"Analysis of FinTech Mobile App Usability for Geriatric Users in India."</span>
+                                <span class="location">Proceedings of the 4th International Conference on HCI and UX 2018</span>
+                                <a href="https://serc.iiit.ac.in/publications/" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/lalit.mohan">Lalit Mohan</a>, <a href="/personal/">Sourav Sarangi</a>, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>, <a href="/personal/vv">Vasudeva Varma</a>
+                                </span>: <span class="title">"Fine Grained Approach for Domain Specific Seed URL Extraction."</span>
+                                <span class="location">Proceedings of the 51st Hawaii International Conference on System Sciences 2018</span>
+                                <a href="http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.949375fb9d183a21.46696e655f477261696e65645f417070726f6163685f666f725f446f6d61696e5f53706563696669635f536565645f55524c5" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/lalit.mohan">Lalit Mohan Sanagavarapu</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                                </span>: <span class="title">"Crowdsourcing security: opportunities and challenges."</span>
+                                <span class="location">CHASE@ICSE 2018</span> (pp. <span class="page">37-40</span>) <a href="http://doi.acm.org/10.1145/3195836.3195862" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                                </span>: <span class="title">"Usability Evaluation Framework for Mobile Apps using Code Analysis."</span>
+                                <span class="location">EASE 2018</span> (pp. <span class="page">187-192</span>) <a href="http://doi.acm.org/10.1145/3210459.3210480" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </div>
             </div>
-        </li>
-    </ul>
-</div>
+            <div class="card p-3 mb-3">
+                <div class="card-header">
+                    <h3>Journal</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="publications" id="dynatable_journal">
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Siddharth Bhatore, <a href="/personal/lalit.mohan">Lalit Mohan</a>, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                                </span>: <span class="title">"Machine learning techniques for credit risk evaluation: a systematic literature review"</span>
+                                <span class="location">Journal of Banking and Financial Technology 2020</span> (pp. <span class="page">1-28</span>) <a href="http://link.springer.com/article/10.1007/s42786-020-00020-3" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                                </span>: <span class="title">"Understanding usability evaluation setup for VR products in industry: a review study"</span>
+                                <span class="location">ACM SIGAPP Applied Computing Review 2020</span> (pp. <span class="page">17-27</span>) <a href="https://dl.acm.org/doi/abs/10.1145/3381307.3381309" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Vinamra Benara, Sahithi Rampalli, Ziaul Choudhury, Suresh Purini, Uday Bondhugula</span>: <span class="title">"Synthesizing Power and Area Efficient Image Processing Pipelines on FPGAs using Customized Bit-widths."</span>
+                                <span class="location">CoRR 2018</span>
+                                <a href="https://serc.iiit.ac.in/publications/OrderedDict([(u'@type',%20u'oa'),%20('#text',%20u'http://arxiv.org/abs/1803.02660')])" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4" data-color="gray">
+                                <div><span class="authors"></span>: <span class="title">Generalised Dining Philosophers as Feedback Control.</span> <span class="location">CoRR 2018</span>: <span class="page"></span> <a href="OrderedDict([(u&#39;@type&#39;, u&#39;oa&#39;), (&#39;#text&#39;, u&#39;http://arxiv.org/abs/1805.02010&#39;)])" target="_blank" rel="nofollow" class="link"><i class="fa fa-external-link"></i></a></div>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/lalit.mohan">Lalit Mohan Sanagavarapu</a>, G. R. Gangadharan, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                                </span>: <span class="title">"KIET Framework for Cloud Adoption: Indian Banking Case Study."</span>
+                                <span class="location">IJCAC 2018</span> (pp. <span class="page">72-87</span>) <a href="https://doi.org/10.4018/IJCAC.2018100105" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, Anveshi Shukla, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                                </span>: <span class="title">"Does your Bug Tracking tool suit your needs? A Study on Open Source Bug Tracking tools."</span>
+                                <span class="location">CoRR 2017</span>
+                                <a href="http://arxiv.org/abs/1706.06799" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">DaeKyoo Kim, Eunjee Song, Jungwoo Ryoo, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                                </span>: <span class="title">"Special issue on software reuse."</span>
+                                <span class="location">Software: Practice and Experience 2017</span> (pp. <span class="page">941-942 (Volume 47)</span>) <a href="https://serc.iiit.ac.in/publications/" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sai.anirudh">Sai Anirudh Karre</a>, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                                </span>: <span class="title">"Heuristic Approaches to Improve Product Quality in Large Scale Integrated Software Products"</span>
+                                <span class="location">Communications in Computer and Information Science (CCIS) 2016</span> (pp. <span class="page">80-97</span>) <a href="http://link.springer.com/chapter/10.1007/978-3-319-30243-0_5" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sridhar.chimalakonda">Sridhar Chimalakonda</a>, Dan Hyung Lee</span>: <span class="title">"On the Evolution of Software and Systems Product Line Standards."</span>
+                                <span class="location">ACM SIGSOFT Software Engineering Notes 2016</span> (pp. <span class="page">27-30</span>) <a href="http://doi.acm.org/10.1145/2934240.2934248" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/naveen.kulkarni">Naveen N. Kulkarni</a>, <a href="/personal/vv">Vasudeva Varma</a>
+                                </span>: <span class="title">"Perils of opportunistically reusing software module"</span>
+                                <span class="location">Software: Practice and Experience,Wiley Online Library 2016</span>
+                                <a href="http://onlinelibrary.wiley.com/doi/10.1002/spe.2439/full" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">A Sureka, <a href="/personal/raghu.reddy">Y. R. Reddy</a>, P. Muenchaisri, M. Tsunoda</span>: <span class="title">"A Report on Software Engineering Education Workshop (SEEW) 2014 Co-Located with Asia-Pacific Software Engineering Conference 2014"</span>
+                                <span class="location">SIGSOFT Software Engineering Notes 2015</span> (pp. <span class="page">40-43</span>) <a href="http://doi.acm.org/10.1145/2693208.2693250" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/sridhar.chimalakonda">Sridhar Chimalakonda</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>, Rakesh Shukla</span>: <span class="title">"Moving Beyond: Insights from 1st International Workshop on Software Engineering Research and Industrial Practices (SER&amp;IPs 2014)."</span>
+                                <span class="location">ACM SIGSOFT Software Engineering Notes 2015</span> (pp. <span class="page">28-31</span>) <a href="http://doi.acm.org/10.1145/2735399.2735418" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/lalit.mohan">Lalit Mohan S.</a>, <a href="/personal/neeraj.mathur">Neeraj Mathur</a>, <a href="/personal/raghu.reddy">Y. Raghu Reddy</a>
+                                </span>: <span class="title">"Improving Mobile Banking Usability Based on Sentiments."</span>
+                                <span class="location">Communications in Computer and Information Science (CCIS) 2015</span> (pp. <span class="page">180-194</span>) <a href="http://dx.doi.org/10.1007/978-3-319-30243-0_10" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Krishna Chaitanya Telikicherla, <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, Bruhadeshwar Bezawada</span>: <span class="title">"CORP: A Browser Policy to Mitigate Web Infiltration Attacks."</span>
+                                <span class="location">Information Systems Security, volume 8880 of LNCS, 2014 2014</span> (pp. <span class="page">277-297</span>) <a href="http://dx.doi.org/10.1007/978-3-319-13841-1_16" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Suresh Purini, Lakshya Jain</span>: <span class="title">"Finding good optimization sequences covering program space."</span>
+                                <span class="location">TACO 9(4) 2013</span> (pp. <span class="page">56</span>) <a href="http://dl.acm.org/citation.cfm?id=2400715" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Venkata Rao Kuchibhotla, <a href="/personal/k.viswanath">Viswanath Kasturi</a>
+                                </span>: <span class="title">"On the Definition of Non-deterministic Mechanisms"</span>
+                                <span class="location">CoRR 2011</span>
+                                <a href="http://arxiv.org/abs/0906.4216" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Bharghava Rajaram, Abinesh Ramachandran, Suresh Purini, R. Govindarajulu</span>: <span class="title">"Design of Low Power Systems Using Inexact Logic Circuits."</span>
+                                <span class="location">J. Low Power Electronics 2010</span> (pp. <span class="page">401-414</span>) <a href="http://dx.doi.org/10.1166/jolpe.2010.1095" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/kesav.nori">Kesav V. Nori</a>
+                                </span>: <span class="title">"Requirements for design of processes."</span>
+                                <span class="location">Software Process: Improvement and Practice 2009</span> (pp. <span class="page">129-142</span>) <a href="http://dx.doi.org/10.1002/spip.415" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Brian Henderson-Sellers, Robert France, Geri Georg, <a href="/personal/raghu.reddy">Raghu Reddy</a>
+                                </span>: <span class="title">"A method engineering approach to developing aspect-oriented modelling processes based on the OPEN process framework"</span>
+                                <span class="location">Information and software technology 2007</span> (pp. <span class="page">761-773</span>) <a href="https://scholar.google.co.in/citations?view_op=view_citation&amp;hl=en&amp;user=-WWiT4MAAAAJ&amp;citation_for_view=-WWiT4MAAAAJ:roLk4NBRz8UC" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Arnor Solberg, Devon Simmonds, <a href="/personal/raghu.reddy">Raghu Reddy</a>, Robert France, Sudipto Ghosh, Jan yvind Aagedal</span>: <span class="title">"Developing Distributed Services Using an Aspect Oriented Model Driven Framework"</span>
+                                <span class="location">International Journal of Cooperative information Systems 2006</span> (pp. <span class="page">535-564</span>) <a href="https://scholar.google.co.in/citations?view_op=view_citation&amp;hl=en&amp;user=-WWiT4MAAAAJ&amp;citation_for_view=-WWiT4MAAAAJ:kNdYIx-mwKoC" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <div class="card p-3 mb-3">
+                <div class="card-header">
+                    <h3>Magazine</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="publications" id="dynatable_magazine">
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/lalit.mohan">Lalit Mohan</a>, Shakti Mishra, Williams A K, Gangadharan R</span>: <span class="title">"The Indian Banking Community Cloud"</span>
+                                <span class="location">IEEE IT Professional 2014</span>
+                                <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6964975" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <div class="card p-3 mb-3">
+                <div class="card-header">
+                    <h3>Books</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="publications" id="dynatable_book">
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Natarajan, Swaminathan; Kumar, Anand; Chaudhuri, Subhrojyoti Roy; Ramanujam, Niruj Mohan; Banerjee, Rajiv; Banerjee, Amar; Patwari, Puneet;</span>: <span class="title">"How Do Knowledge Domains Come Together in Systems?"</span>
+                                <span class="location">Springer, Cham 2019</span> (pp. <span class="page">137-150</span>) <a href="https://link.springer.com/chapter/10.1007/978-3-030-00114-8_12#:~:text=Vocabulary%3A%20Each%20domain%20has%20its%20own%20vocabulary%20and%20concepts.&amp;text=The%20mappings%20between%20these%20concepts,a" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4" data-color="gray">
+                                <div><span class="authors"></span>: <span class="title">An Attempt at Explicating the Relationship between Knowledge, Systems and Engineering</span> <span class="location">Proceedings of the 11th Innovations in Software Engineering Conference 2018</span>: <span class="page">01-09</span> <a href="https://dl.acm.org/doi/abs/10.1145/3172871.3172875" target="_blank" rel="nofollow" class="link"><i class="fa fa-external-link"></i></a></div>
+                            </li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <div class="card p-3 mb-3">
+                <div class="card-header">
+                    <h3>Editorship</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="publications" id="dynatable_editorship">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/raghu.reddy">Y Raghu Reddy</a>, Vinay Kulkarni</span>: <span class="title">"Modelling Symposium (ModSym)"</span>
+                                <span class="location">Proceedings of the 10th Innovations in Software Engineering Conference 2017</span> (pp. <span class="page">223-224</span>) <a href="http://dl.acm.org/citation.cfm?id=3021496" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Vinay Kulkarni, <a href="/personal/raghu.reddy">Y Raghu Reddy</a>
+                                </span>: <span class="title">"2nd Modelling Symposium (ModSym 2016)"</span>
+                                <span class="location">NA 2016</span> (pp. <span class="page">NA</span>) <a href="https://pdfs.semanticscholar.org/ec8f/fa344c471682a15244db17ea64180ea5c42f.pdf" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/raghu.reddy">Y Raghu Reddy</a>, Vinay Kulkarni</span>: <span class="title">"A Report on Modelling Symposium (ModSym)"</span>
+                                <span class="location">Proceedings of the 8th India Software Engineering Conference 2015</span> (pp. <span class="page">204-205</span>) <a href="https://scholar.google.co.in/citations?view_op=view_citation&amp;hl=en&amp;user=-WWiT4MAAAAJ&amp;cstart=20&amp;pagesize=80&amp;citation_for_view=-WWiT4MAAAAJ:4DMP91E08xMC" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/venkatesh.choppella">Venkatesh Choppella</a>, Sridhar Iyer, Kinshuk</span>: <span class="title">"Seventh IEEE  International Conference on Technology for Education, T4E 2015, Warangal, India, December 10-12, 2015"</span>
+                                <span class="location">IEEE 2015</span>
+                                <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7395548" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Somenath Biswas, <a href="/personal/kesav.nori">Kesav V. Nori</a>
+                                </span>: <span class="title">"Foundations of Software Technology and Theoretical Computer Science, 11th Conference, New Delhi, India, December 17-19, 1991, Proceedings"</span>
+                                <span class="location">Lecture Notes in Computer Science 1991</span> (pp. <span class="page">560</span>) <a href="http://dblp.uni-trier.de/db/conf/fsttcs/fsttcs91.html" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/kesav.nori">Kesav V. Nori</a>, C. E. Veni Madhavan</span>: <span class="title">"Foundations of Software Technology and Theoretical Computer Science, Tenth Conference, Bangalore, India, December 17-19, 1990, Proceedings"</span>
+                                <span class="location">Lecture Notes in Computer Science 1990</span> (pp. <span class="page">472</span>) <a href="http://dblp.uni-trier.de/db/conf/fsttcs/fsttcs90.html" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/kesav.nori">Kesav V. Nori</a>, Sanjeev Kumar</span>: <span class="title">"Foundations of Software Technology and Theoretical Computer Science, Eighth Conference, Pune, India, December 21-23, 1988, Proceedings"</span>
+                                <span class="location">Lecture Notes in Computer Science 1988</span> (pp. <span class="page">338</span>) <a href="http://dblp.uni-trier.de/db/conf/fsttcs/fsttcs88.html" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/kesav.nori">Kesav V. Nori</a>
+                                </span>: <span class="title">"Foundations of Software Technology and Theoretical Computer Science, Seventh Conference, Pune, India, December 17-19, 1987, Proceedings"</span>
+                                <span class="location">Lecture Notes in Computer Science 1987</span> (pp. <span class="page">287</span>) <a href="http://dblp.uni-trier.de/db/conf/fsttcs/fsttcs87.html" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">
+                                    <a href="/personal/kesav.nori">Kesav V. Nori</a>
+                                </span>: <span class="title">"Foundations of Software Technology and Theoretical Computer Science, Sixth Conference, New Delhi, India, December 18-20, 1986, Proceedings"</span>
+                                <span class="location">Lecture Notes in Computer Science 1986</span> (pp. <span class="page">241</span>) <a href="http://dblp.uni-trier.de/db/conf/fsttcs/fsttcs86.html" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+            <div class="card p-3 mb-3">
+                <div class="card-header">
+                    <h3>Patents</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="publications" id="dynatable_patents">
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Chaudhuri, Subhrojyoti Roy; Natarajan, Swaminathan; Patwari, Puneet; Banerjee, Amar Satyabroto;</span>: <span class="title">"System and method for creating domain specific language"</span>
+                                <span class="location">US Patent 10,387,124 2019</span>
+                                <a href="https://patents.google.com/patent/US10387124B2/en" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Banerjee, Amar Satyabroto; Chaudhuri, Subhrojyoti Roy; Patwari, Puneet; Natarajan, Swaminathan;</span>: <span class="title">"Identification of changes in functional behavior and runtime behavior of a system during maintenance cycles"</span>
+                                <span class="location">US Patent App. 16/246,245 2019</span>
+                                <a href="https://patents.google.com/patent/US20190236223A1/en" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">Patwari, Puneet; Subhrojyoti, RC; Banerjee, Amar; Ashwin, ARUN; Jayakumar, VK; KALIDOSS, Thanga Jawahar; SASAN, Jagpreet Singh; KEDIA, Yash;</span>: <span class="title">"Systems and methods for auto-generating a control and monitoring solution for smart and robotics environments"</span>
+                                <span class="location">US Patent App. 16/268,314 2019</span>
+                                <a href="https://patents.google.com/patent/US20190240837A1/en" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                        <div>
+                            <li class="span4">
+                                <span class="authors">CHAUDHURI, Subhrojyoti ROY; Banerjee, Amar Satyabroto; Patwari, Puneet; Mukherjee, Arijit; Kattepur, Ajay; Purushothaman, Balamuralidhar; Pal, Arpan; Sounak, DEY; Sarkar, Chayan;</span>: <span class="title">"Systems and methods for generating control system solutions for robotics environments"</span>
+                                <span class="location">US Patent App. 16/268,952 2019</span>
+                                <a href="https://patents.google.com/patent/US20190389060A1/en" target="_blank" rel="nofollow" class="link">
+                                    <i class="fa fa-external-link"></i>
+                                </a>
+                            </li>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </div>

@@ -1,4 +1,7 @@
 #iiitimg{
     height: 50px;
     padding: 2px;
+    background-color: aliceblue;
+    border-radius: 2px;
+    margin: 2px;
 }

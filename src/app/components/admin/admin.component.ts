@@ -12,6 +12,7 @@ export class AdminComponent implements OnInit {
 
   ngOnInit(): void {
     this.getFaculties();
+    //document.body.contentEditable='true';
   }
   getFaculties():void {
     this.facultyService.getFaculties()
