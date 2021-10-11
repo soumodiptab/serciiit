@@ -17,6 +17,6 @@ export class PublicationsComponent implements OnInit {
   }
   change()
   {
-
+    
   }
 }
