@@ -1,27 +1,39 @@
-# Serciiit
+# ASSIGNMENT 2 PART B : Rebuild SERC IIIT WEBSITE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+## USED:
+1. HTML/CSS/JS
+2. BootStrap
+3. Angular JS Framework
+## Website Hosted Location : https://soumodiptab.github.io/serciiit
+<hr>
 
-## Development server
+1. Provide Admin Mode to manage content listed in below sections (2,3,4) (10 Marks)
+2. Rebuild the site with a new theme (20 Marks)
+    1. About the Center, Focus Area (5 Marks)
+    2. Student/Faculty/Alumni Profiles (10 Marks)
+    3. Resources and Contact (5 Marks)
+3. Publications (10 Marks)
+    1. Read publication data from sources like Google Scholar/ DBLP of all contributors 
+of the SERC and populate them Static/dynamically by person and year 
+4. News/Updates (10 Marks)
+    1. Provide a News/Updates Roll
+    2. Provide space for Twitter/Linkedin handle linkage
+<hr>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### ADMIN MODE:
+For admin mode I have implemented the feature to edit and delete faculty details.
+The way it works is that you have to go to the admin section and click the link to edit or click the cross button to delete. The changes will be visible if one navigates back to the faculty section.
+I have done it just for faculty, as per Sai Sir's instruction if we could do even one section then it would work.
+It was not possible to do it for all.
+### PUBLICATIONS:
+All the contributors publications have been fetched and segregated into different sections and sorted on the basis of year.
+### NEWS / UPDATES:
+The news has been fetched from the twitter handle of serc iiit and populated.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Deployment Instructions: 
+I have already hosted the site on github pages.
+But for local deployment and http server is needed.
+1. Install node and npm
+2. Install http-server using `npm install http-server -g`
+3. The project can then be run by typing `http-server` in command line in this directory.
