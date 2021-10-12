@@ -20,7 +20,8 @@ of the SERC and populate them Static/dynamically by person and year
     1. Provide a News/Updates Roll
     2. Provide space for Twitter/Linkedin handle linkage
 <hr>
-
+### PEOPLE SECTION:
+All the faculties and other contributers are displayed in card format and the faculties have individual pages made for them.
 ### ADMIN MODE:
 For admin mode I have implemented the feature to edit and delete faculty details.
 The way it works is that you have to go to the admin section and click the link to edit or click the cross button to delete. The changes will be visible if one navigates back to the faculty section.
