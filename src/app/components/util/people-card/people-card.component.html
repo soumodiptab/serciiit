@@ -1,5 +1,13 @@
 <div id="c1" class="card mb-3" style="width: 18rem;">
-  <h5 class="card-header">{{f.name}}</h5>
+  <h5 class="card-header">
+    <a *ngIf='f.linksrc;else elseBlock' routerLink="{{f.linksrc}}">
+    {{f.name}}
+    </a>
+    <ng-template #elseBlock>{{f.name}}</ng-template>
+    <ng-template #loggedOut>
+      Please friend, login.
+    </ng-template>
+  </h5>
   <div class="card-body" id="c1">
   </div>
   <div class="card-body">

@@ -5,6 +5,12 @@ import { ContactComponent } from './components/contact/contact.component';
 import { FocusareaComponent } from './components/focusarea/focusarea.component';
 import { HomeComponent } from './components/home/home.component';
 import { NewsComponent } from './components/news/news.component';
+import { KesavvComponent } from './components/pages/kesavv/kesavv.component';
+import { RaghureddyComponent } from './components/pages/raghureddy/raghureddy.component';
+import { RameshloganathanComponent } from './components/pages/rameshloganathan/rameshloganathan.component';
+import { VasudevavarmaComponent } from './components/pages/vasudevavarma/vasudevavarma.component';
+import { VenkatestcComponent } from './components/pages/venkatestc/venkatestc.component';
+import { ViswanathkComponent } from './components/pages/viswanathk/viswanathk.component';
 import { BtechComponent } from './components/people/btech/btech.component';
 import { FacultyComponent } from './components/people/faculty/faculty.component';
 import { InternComponent } from './components/people/intern/intern.component';
@@ -95,6 +101,35 @@ const routes: Routes = [
               component: PosterComponent
             }
         ]
+  },
+  {
+    path: 'pages',
+    children: [
+        {
+          path:'raghureddy',
+          component: RaghureddyComponent
+        },
+        {
+          path:'kesavv',
+          component:KesavvComponent
+        },
+        {
+          path:'rameshloganathan',
+          component:RameshloganathanComponent
+        },
+        {
+          path:'vasudevavarma',
+          component:VasudevavarmaComponent
+        },
+        {
+          path:'venkateshc',
+          component:VenkatestcComponent
+        },
+        {
+          path:'viswanathk',
+          component:ViswanathkComponent
+        }
+    ]
   },
   {
     path: 'contact',

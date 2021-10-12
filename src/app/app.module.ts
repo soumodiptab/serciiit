@@ -30,6 +30,12 @@ import { HttpClientModule } from '@angular/common/http';
 import { FacultydetailComponent } from './components/utils/detail/facultydetail/facultydetail.component';
 import { NewsComponent } from './components/news/news.component';
 import { NgxTwitterTimelineModule } from 'ngx-twitter-timeline';
+import { RaghureddyComponent } from './components/pages/raghureddy/raghureddy.component';
+import { VenkatestcComponent } from './components/pages/venkatestc/venkatestc.component';
+import { VasudevavarmaComponent } from './components/pages/vasudevavarma/vasudevavarma.component';
+import { RameshloganathanComponent } from './components/pages/rameshloganathan/rameshloganathan.component';
+import { KesavvComponent } from './components/pages/kesavv/kesavv.component';
+import { ViswanathkComponent } from './components/pages/viswanathk/viswanathk.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -55,7 +61,13 @@ import { NgxTwitterTimelineModule } from 'ngx-twitter-timeline';
     ContactComponent,
     StudentCardComponent,
     FacultydetailComponent,
-    NewsComponent
+    NewsComponent,
+    RaghureddyComponent,
+    VenkatestcComponent,
+    VasudevavarmaComponent,
+    RameshloganathanComponent,
+    KesavvComponent,
+    ViswanathkComponent
   ],
   imports: [
     BrowserModule,

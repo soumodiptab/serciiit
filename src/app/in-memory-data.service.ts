@@ -8,10 +8,10 @@ import { faculty } from './classes/faculty';
 export class InMemoryDataService implements InMemoryDbService {
   createDb() {
     const faculties = [
-      {id:11,name:"Raghu Reddy",title:"Associate Professor & Head",research:["Model Driven Development","Software Requirements and Architecture","Verification & Validation","Usability and Software engineering education"],imgsrc:"https://serc.iiit.ac.in/static/images/people/6.jpg"},
-      {id:12,name:"Venkatesh Choppella",title:"Associate Professor",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Venkatesh_Choppella.jpg"},
-      {id:13,name:"Vasudeva Varma",title:"Professor & Dean (Research)",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/DSC_0320.jpg"},
-      {id:14,name:"Ramesh Loganathan",title:"PROFESSOR CO-INNOVATION",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Ramesh.jpg"}
+      {id:11,linksrc: "/pages/raghureddy",name:"Raghu Reddy",title:"Associate Professor & Head",research:["Model Driven Development","Software Requirements and Architecture","Verification & Validation","Usability and Software engineering education"],imgsrc:"https://serc.iiit.ac.in/static/images/people/6.jpg"},
+      {id:12,linksrc: "/pages/venkateshc",name:"Venkatesh Choppella",title:"Associate Professor",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Venkatesh_Choppella.jpg"},
+      {id:13,linksrc: "/pages/vasudevavarma",name:"Vasudeva Varma",title:"Professor & Dean (Research)",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/DSC_0320.jpg"},
+      {id:14,linksrc: "/pages/rameshloganathan",name:"Ramesh Loganathan",title:"PROFESSOR CO-INNOVATION",research:["as","bs"],imgsrc:"https://serc.iiit.ac.in/static/images/people/Ramesh.jpg"}
     ];
     return {faculties};
   }

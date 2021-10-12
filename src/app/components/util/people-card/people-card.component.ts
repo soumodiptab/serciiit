@@ -11,5 +11,4 @@ export class PeopleCardComponent implements OnInit {
   constructor() { }
   ngOnInit(): void {
   }
-
 }

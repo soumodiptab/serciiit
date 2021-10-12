@@ -4,4 +4,5 @@ export class faculty {
     title: string;
     research: string[];
     imgsrc: string;
+    linksrc: string;
 };
