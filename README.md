@@ -20,6 +20,7 @@ of the SERC and populate them Static/dynamically by person and year
     1. Provide a News/Updates Roll
     2. Provide space for Twitter/Linkedin handle linkage
 <hr>
+
 ### PEOPLE SECTION:
 All the faculties and other contributers are displayed in card format and the faculties have individual pages made for them.
 ### ADMIN MODE:
