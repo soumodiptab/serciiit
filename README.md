@@ -2,7 +2,7 @@
 
 This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 ## USED:
-1. HTML/CSS/JS
+1. HTML/CSS
 2. BootStrap
 3. Angular JS Framework
 ## Website Hosted Location : https://soumodiptab.github.io/serciiit
@@ -20,13 +20,16 @@ of the SERC and populate them Static/dynamically by person and year
     1. Provide a News/Updates Roll
     2. Provide space for Twitter/Linkedin handle linkage
 <hr>
+
+### MOBILE FIRST APPROACH: 
+All the sections and pages are responsive and works well for all devices.
 ### PEOPLE SECTION:
 All the faculties and other contributers are displayed in card format and the faculties have individual pages made for them.
 ### ADMIN MODE:
 For admin mode I have implemented the feature to edit and delete faculty details.
 The way it works is that you have to go to the admin section and click the link to edit or click the cross button to delete. The changes will be visible if one navigates back to the faculty section.
-I have done it just for faculty, as per Sai Sir's instruction if we could do even one section then it would work.
-It was not possible to do it for all.
+
+Master Edit Mode: There is abutton that will allow you to edit all the contents of all the pages and another button that stops the editing mode.
 ### PUBLICATIONS:
 All the contributors publications have been fetched and segregated into different sections and sorted on the basis of year.
 ### NEWS / UPDATES:

@@ -23,4 +23,12 @@ export class AdminComponent implements OnInit {
     this.faculties =this.faculties.filter(h => h !== f);
     this.facultyService.deleteFaculty(f.id).subscribe();
   }
+  onEdit()
+  {
+    document.body.contentEditable='true';
+  }
+  onStopEdit()
+  {
+    document.body.contentEditable='false';
+  }
 }
