@@ -21,6 +21,7 @@ of the SERC and populate them Static/dynamically by person and year
     2. Provide space for Twitter/Linkedin handle linkage
 <hr>
 
+
 ### MOBILE FIRST APPROACH: 
 All the sections and pages are responsive and works well for all devices.
 ### PEOPLE SECTION:
